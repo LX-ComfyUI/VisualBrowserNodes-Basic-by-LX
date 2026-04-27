@@ -1,7 +1,21 @@
-🌐 Civitai Visual Browser Nodes for ComfyUI (by LX)
-Transform your ComfyUI workflow with a beautiful, grid-based visual browser for your models! Say goodbye to endless, confusing dropdown menus and hello to a sleek visual interface that lets you see exactly what you are loading.
+🌐 Civitai Visual Browser Nodes for ComfyUI by LX
+
+Transform your ComfyUI workflow with a beautiful, grid-based visual browser for your local models and loras! Say goodbye to endless, confusing dropdown menus and hello to a sleek visual interface that lets you see exactly what you are loading.
+
+This is how the Visual Browser Nodes look like, they are all similar:
+
+<img width="2560" height="1438" alt="YouTube Node Tutorial - ComfyUI - Google Chrome 27 04 2026 21_15_40" src="https://github.com/user-attachments/assets/d91979c0-9abe-4dde-b2e2-4c343c837106" />
+
+These are my three nods in the ComfyUI Canvas Workspace:
 
 <img width="1757" height="787" alt="Screenshot_1" src="https://github.com/user-attachments/assets/25bbd2e3-c12a-48c5-b06c-158eef358607" />
+
+No endless lists anymore:
+
+
+<img width="1193" height="812" alt="image" src="https://github.com/user-attachments/assets/40272c1a-47e2-484f-9d38-013a0df95a0c" />
+
+
 
 This extension includes three custom nodes:
 
@@ -11,7 +25,8 @@ Visual Checkpoint Loader
 
 Visual Diffusion Model Loader
 
-✨ Basic Features (Free Version):
+
+✨ Basic Features:
 The Basic version provides a solid, visually appealing foundation to speed up your workflow:
 
 🖼️ Visual Grid Interface: View your local models as a clean, responsive grid of thumbnails instead of text lists.
@@ -23,6 +38,7 @@ The Basic version provides a solid, visually appealing foundation to speed up yo
 📁 Local Custom Covers: Easily set your own local images as cover art for models not found on Civitai.
 
 🛑 NSFW Filter: Basic toggle to hide or show NSFW content.
+
 
 🌟 Upgrade to PRO (The Ultimate Power-User Workflow)
 Want to take your workflow to the next level? The PRO Version is built for users with hundreds of models who need maximum speed and organization.
