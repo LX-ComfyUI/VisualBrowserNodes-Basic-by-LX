@@ -1,6 +1,8 @@
 🌐 Civitai Visual Browser Nodes for ComfyUI (by LX)
 Transform your ComfyUI workflow with a beautiful, grid-based visual browser for your models! Say goodbye to endless, confusing dropdown menus and hello to a sleek visual interface that lets you see exactly what you are loading.
 
+<img width="1757" height="787" alt="Screenshot_1" src="https://github.com/user-attachments/assets/25bbd2e3-c12a-48c5-b06c-158eef358607" />
+
 This extension includes three custom nodes:
 
 Visual LoRA Loader
